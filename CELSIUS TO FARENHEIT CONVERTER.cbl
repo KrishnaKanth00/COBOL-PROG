@@ -21,4 +21,3 @@
            DISPLAY 'FAHRENHEIT :' FAHRENHEIT.
       
            STOP RUN.
-      
